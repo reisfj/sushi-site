@@ -109,8 +109,8 @@ body.dark-theme {
   --body-color: hsl(19, 12%, 8%);
   --container-color: hsl(19, 10%, 10%);
 }
-/*========== 
-    Color changes in some parts of 
+/*==========
+    Color changes in some parts of
     the website, in light theme
 ==========*/
 .dark-theme .bg-header,
@@ -884,7 +884,7 @@ body.dark-theme {
 }
 
 /* For large devices */
-@media screen and(min-width: 1024px) {
+@media screen and (min-width: 1024px) {
   .section {
     padding-block: 7rem 1.5rem;
   }
@@ -958,7 +958,7 @@ body.dark-theme {
   }
   .popular__container {
     grid-template-columns: repeat(3, 262px);
-    column-gap: 3rem;
+    column-gap: 3.5rem;
     padding-block: 6rem 4rem;
   }
 
@@ -989,7 +989,7 @@ body.dark-theme {
   }
 
   .recently__data-img {
-    width: 30%;
+    width: 30px;
     top: 5.5rem;
     right: 2.5rem;
   }
@@ -1082,4 +1082,45 @@ body.dark-theme {
     right: 3rem;
   }
 }
-/* Parei em 1:49:33 */
+
+/* @media screen and (min-width: 1064px) {
+  .container {
+    margin-inline: auto;
+  }
+} */
+
+@media screen and (min-width: 1280px) {
+  .home__leaf-1 {
+    width: 150px;
+    top: 5rem;
+  }
+  .home__leaf-2 {
+    width: 180px;
+    right: -4rem;
+  }
+
+  .about__leaf{
+    width: 200px;
+    bottom: 3rem;
+  }
+
+  .recently__leaf-1{
+    width: 150px;
+    top: 19rem;
+  }
+
+  .recently__leaf-2{
+    width: 100px;
+    bottom: 15rem;
+  }
+
+  .footer__leaf{
+    right: 0;
+    left: 0;
+    bottom: -15rem;
+    margin: 0 auto;
+    width: 150px;
+  }
+
+
+}
