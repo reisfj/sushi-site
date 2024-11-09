@@ -2,25 +2,26 @@
 
 ### Responsive Sushi Website
 
-Este projeto foi desenvolvido utilizando HTML, CSS e JavaScript para criar uma experiência interativa e visualmente atraente para os amantes de sushi.
+This project was developed using HTML, CSS and JavaScript to create an interactive and visually appealing experience for sushi lovers.
 
-## Recursos Principais:
+## Key Features:
 
-- **Design Responsivo** Este site foi desenvolvido utilizando a metodologia Mobile First, garantindo compatibilidade com todos os dispositivos móveis e uma interface de usuário bonita e agradável.
-- **Modo Claro e Escuro**: Foi disponibilizada aos usuários a opção de escolher entre um modo claro e escuro para uma experiência de visualização personalizada.
-- **Rolagem Suave e Animações**: Foi implementada rolagem suave em cada seção do site e adicionamos animações para uma experiência de navegação mais envolvente.
-- **Desenvolvimento Progressivo**: O site foi desenvolvido com a metodologia Mobile First e posteriormente foi adaptada para desktop, garantindo uma experiência consistente em todos os dispositivos.
-- **Compatibilidade Universal**: O site é compatível com todos os dispositivos móveis e oferece uma interface de usuário bonita e agradável.
+- **Responsive Design** This website was developed using the Mobile First methodology, ensuring compatibility with all mobile devices and a beautiful and pleasant user interface.
+- **Light and Dark Mode**: Users were given the option to choose between a light and dark mode for a personalized viewing experience.
+- **Smooth Scrolling and Animations**: Smooth scrolling was implemented in each section of the website and animations were added for a more engaging browsing experience.
+- **Progressive Development**: The website was developed using the Mobile First methodology and was later adapted for desktop, ensuring a consistent experience across all devices.
+- **Universal Compatibility**: The website is compatible with all mobile devices and offers a beautiful and pleasant user interface.
 
-## Composição da interface:
+## Interface Composition:
 
-1. **Navegação Simples**: Explore as diferentes seções do site usando a navegação intuitiva.
-2. **Descubra o Menu**: Explore uma variedade de pratos de sushi deliciosos em nosso menu.
-3. **Escolha seu Modo**: Experimente o modo claro ou escuro para uma experiência de visualização personalizada.
+1. **Simple Navigation**: Explore the different sections of the site using intuitive navigation.
+2. **Discover the Menu**: Explore a variety of delicious sushi dishes on our menu.
+3. **Choose Your Mode**: Try light or dark mode for a personalized viewing experience.
 
-## Objetivo geral:
+## Overall Goal:
 
-Esse foi um projeto com foco em treinar habilidades de front-end no que diz respeito a organização do código, estruturação de um css eficiente e criação de dinâmica dos elementos do site. 
+This was a project focused on training front-end skills regarding code organization, efficient CSS structuring, and creating dynamic website elements.
+
 
 
 ![screencapture-127-0-0-1-5500-2024-02-08-13_39_40](https://github.com/reisfj/sushi-site/assets/112221862/d7e95de7-8df6-4541-b6b3-4d483e1474bb)
